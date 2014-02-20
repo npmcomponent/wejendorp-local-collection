@@ -1,0 +1,11 @@
+{
+  "name": "wejendorp-local-collection",
+  "description": "Model collection with localStorage caching and persistance",
+  "version": "0.0.2",
+  "main": "lib/index.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-enumerable": "git://github.com/npmcomponent/component-enumerable.git",
+    "nbubna-store": "git://github.com/npmcomponent/nbubna-store.git"
+  }
+}
